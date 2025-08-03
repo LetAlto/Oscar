@@ -1,0 +1,57 @@
+div 
+    {
+        display: inline;
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+header
+    {
+        justify-items: center;
+        margin: -15px;
+    }
+
+h1
+    {
+        text-align: center;
+        font-family: "Alegreya", serif;
+        font-size: 50px;
+        color: rgb(34, 34, 34);
+        margin: 5%;
+    }
+
+h2
+    {
+        font-family: "Alegreya", serif;
+        font-size: 45px;
+        color: rgb(34, 34, 34);
+        text-align: center; 
+        margin-top: 5px ;
+        margin-bottom: 0px;
+     
+    }
+    
+h3
+    {
+        font-family: "Alegreya", serif;
+        font-size: 23px;
+        color: rgb(34, 34, 34);
+        text-align:center;
+        margin:0px ;
+
+    }
+body
+    {
+       background-color: rgb(212, 214, 216);
+    }
+
+h4
+    {
+        margin-bottom: 2px;
+        color: rgb(34, 34, 34);
+    }
+
+section
+    {
+        margin-bottom: 50px;
+    }
