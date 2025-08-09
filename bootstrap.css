@@ -55,3 +55,22 @@ section
     {
         margin-bottom: 50px;
     }
+
+.img-container{
+   width: 202px;
+   height: 329px;
+   overflow: hidden;
+   border: 0px solid #000;
+}
+
+.img-container img{
+   width: 210px;
+   height: 350px;
+   -webkit-transition: -webkit-transform .5s ease;
+   transition: transform .5s ease;
+}
+
+.img-container:hover img{
+   -webkit-transform: scale(1.1);
+   transform: scale(1.1);
+}
